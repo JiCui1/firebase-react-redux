@@ -1,1 +1,1 @@
-# Full stack project with React as front-end and node, firebase as backend
+# Full stack project with React + Redux as front-end and node, firebase as backend
